@@ -1,0 +1,2 @@
+# ScrollRecyclerViewDemo
+Android 解决ScrollView和RecyclerView的滑动冲突（个人Demo）
